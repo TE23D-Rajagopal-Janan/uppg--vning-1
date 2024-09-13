@@ -1,0 +1,19 @@
+body{
+background-color: lightgreen;
+}
+p{
+    color: purple; 
+}
+h1{
+    color: tomato;
+    background-color: lightblue;
+
+}
+h2,h3,h4{
+    color: lightgreen;
+    background-color: purple;
+    /* text-align: center; */
+}
+b{
+color: purple;
+}
